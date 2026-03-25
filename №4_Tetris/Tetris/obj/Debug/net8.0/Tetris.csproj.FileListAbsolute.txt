@@ -1,0 +1,14 @@
+D:\Практика\№4_Tetris\Tetris\bin\Debug\net8.0\Tetris.exe
+D:\Практика\№4_Tetris\Tetris\bin\Debug\net8.0\Tetris.deps.json
+D:\Практика\№4_Tetris\Tetris\bin\Debug\net8.0\Tetris.runtimeconfig.json
+D:\Практика\№4_Tetris\Tetris\bin\Debug\net8.0\Tetris.dll
+D:\Практика\№4_Tetris\Tetris\bin\Debug\net8.0\Tetris.pdb
+D:\Практика\№4_Tetris\Tetris\obj\Debug\net8.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\№4_Tetris\Tetris\obj\Debug\net8.0\Tetris.AssemblyInfoInputs.cache
+D:\Практика\№4_Tetris\Tetris\obj\Debug\net8.0\Tetris.AssemblyInfo.cs
+D:\Практика\№4_Tetris\Tetris\obj\Debug\net8.0\Tetris.csproj.CoreCompileInputs.cache
+D:\Практика\№4_Tetris\Tetris\obj\Debug\net8.0\Tetris.dll
+D:\Практика\№4_Tetris\Tetris\obj\Debug\net8.0\refint\Tetris.dll
+D:\Практика\№4_Tetris\Tetris\obj\Debug\net8.0\Tetris.pdb
+D:\Практика\№4_Tetris\Tetris\obj\Debug\net8.0\Tetris.genruntimeconfig.cache
+D:\Практика\№4_Tetris\Tetris\obj\Debug\net8.0\ref\Tetris.dll
