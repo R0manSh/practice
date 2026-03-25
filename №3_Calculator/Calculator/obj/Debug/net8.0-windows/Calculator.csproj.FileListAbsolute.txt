@@ -1,0 +1,16 @@
+D:\Практика\№3_Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+D:\Практика\№3_Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+D:\Практика\№3_Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+D:\Практика\№3_Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+D:\Практика\№3_Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+D:\Практика\№3_Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
